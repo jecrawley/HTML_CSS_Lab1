@@ -1,4 +1,9 @@
 a {
     color: 	#A3D;
     cursor: pointer;
+    text-decoration: underline;
+}
+
+nav, h1, p {
+    text-align: center;
 }
