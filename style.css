@@ -6,4 +6,22 @@ a {
 
 nav, h1, p {
     text-align: center;
+    font-family: sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.blog {
+    margin: 2.5em 15em;
+    text-align: justify;
+}
+
+.bio {
+    margin: 3.5em 15em;
+    text-align: justify;
 }
